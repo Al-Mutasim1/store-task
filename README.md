@@ -15,8 +15,8 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/Al-Mutasim1/store-task.git
+cd fakestore
 
 
 Install dependencies:
